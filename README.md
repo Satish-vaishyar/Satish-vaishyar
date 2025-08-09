@@ -33,9 +33,9 @@ Passionate about problem-solving, innovation, and creating tech that makes an im
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-vaishyar&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117)
 
 ---
->_
+>
 ⭐ **"Building the future, one line of code at a time."**  
-💬 *"In a connected world, intelligence without security is a risk — and security without intelligence is blind."*_
+💬 *"In a connected world, intelligence without security is a risk — and security without intelligence is blind."*
 
 <!---
 Satish-vaishyar/Satish-vaishyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
