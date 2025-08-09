@@ -1,39 +1,41 @@
-# 🚀 Satish Vaishyar | AI & Cybersecurity Innovator  
+<!-- Banner -->
+![Banner](./your-banner-file-name.png)
 
-![Banner](BANNER_IMAGE_LINK)  
-![Profile Views](https://komarev.com/ghpvc/?username=Satish-vaishyar&color=brightgreen)  
-
-## 👋 About Me  
-I am a **technology enthusiast** with a deep interest in building intelligent systems that combine **Artificial Intelligence** and **Cybersecurity** to solve complex, high-impact problems.  
-My mission is to design and implement secure, data-driven solutions that can adapt to the ever-changing digital landscape.  
-
-💡 **Core Belief:** True innovation lies at the intersection of intelligence and security.  
+<h1 align="center">👋 Hey, I’m Satish Vaishyar</h1>
+<h3 align="center">AI & Cybersecurity Enthusiast | Turning Data Into Defense</h3>
 
 ---
 
-## 🧠 Expertise & Skillset  
+### 🚀 About Me
+I thrive at the intersection of **Artificial Intelligence** and **Cybersecurity**, building intelligent systems that not only learn — but protect.  
+Passionate about problem-solving, innovation, and creating tech that makes an impact.
+
+---
+
+### 🛠 Tech Stack
 **Languages:** Python  
-**AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-**Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-**Cybersecurity Tools:** Wireshark 
-**Workflow & DevOps:** Git & GitHub, Jupyter Notebooks, VS Code  
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
+**Cybersecurity:** Wireshark, Nmap, Burp Suite, Metasploit  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+**Other:** Git, Docker, REST APIs
 
 ---
 
-## 📫 Connect With Me  
-- 📧 **Email:** 12vsatish1@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/satish-vaishyar)  
-- 🖥 [GitHub Portfolio](https://github.com/Satish-vaishyar)  
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-vaishyar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12vsatish1@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satish-vaishyar)
 
 ---
 
-## 📊 GitHub Stats  
-![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish-vaishyar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-vaishyar&layout=compact&theme=radical)  
+### 📊 GitHub Stats
+![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satish-vaishyar&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-vaishyar&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117)
 
 ---
 
-> _"In a connected world, intelligence without security is a risk — and security without intelligence is blind."_
+⭐ **"Building the future, one line of code at a time."**  
+💬 *"In a connected world, intelligence without security is a risk — and security without intelligence is blind."*
 
 <!---
 Satish-vaishyar/Satish-vaishyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
