@@ -12,10 +12,10 @@ My mission is to design and implement secure, data-driven solutions that can ada
 ---
 
 ## 🧠 Expertise & Skillset  
-**Languages:** Python, JavaScript, SQL  
+**Languages:** Python  
 **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
 **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-**Cybersecurity Tools:** Wireshark, Nmap, Security Onion  
+**Cybersecurity Tools:** Wireshark 
 **Workflow & DevOps:** Git & GitHub, Jupyter Notebooks, VS Code  
 
 ---
