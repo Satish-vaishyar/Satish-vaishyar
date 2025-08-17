@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./your-banner-file-name.png)
+![Banner](./banner.png)
 
 <h1 align="center">👋 Hey, I’m Satish Vaishyar</h1>
 <h3 align="center">AI & Cybersecurity Enthusiast | Turning Data Into Defense</h3>
