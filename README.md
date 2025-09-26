@@ -2,15 +2,22 @@
 <!-- Banner -->
 <!-- ![Banner](./banner.png) -->
 
-<h1 align="center">👋 Hi, I’m Satish Vaishyar</h1>
-<h3 align="center">AI & ML Enthusiast — turning data into defense</h3>
+<!-- <h1 align="center">👋 Hi, I’m Satish Vaishyar</h1>
+<h3 align="center">AI & ML Enthusiast — turning data into defense</h3> -->
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Satish;AI+%26+ML+Enthusiast;Data+Scientist;Problem+Solver" alt="Typing SVG" />
+  </h1>
+  <h3>Turning data into insights | Building intelligent solutions</h3>
+</div>
 
 <p align="center">
-  <a href="#who-i-am">About</a> •
-  <a href="#tech-stack">Tech</a> •
-  <a href="#highlights">Highlights</a> •
-  <a href="#github-stats">Stats</a> •
-  <a href="#connect">Connect</a>
+  <a href="#who-i-am"><kbd><strong>About</strong></kbd></a> &nbsp;•&nbsp;
+  <a href="#tech-stack"><kbd><strong>Tech Stack</strong></kbd></a> &nbsp;•&nbsp;
+  <a href="#highlights"><kbd><strong>Highlights</strong></kbd></a> &nbsp;•&nbsp;
+  <a href="#github-stats"><kbd><strong>GitHub Stats</strong></kbd></a> &nbsp;•&nbsp;
+  <a href="#connect"><kbd><strong>Connect</strong></kbd></a>
 </p>
 
 ---
@@ -21,6 +28,10 @@ I build machine learning models and reproducible pipelines that turn data into p
 
 - 🎯 Focus areas: anomaly detection, time-series & traffic analysis, model deployment  
 - 💡 Tools I use daily: Python, TensorFlow, PyTorch, Scikit-learn
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Turning%20data%20into%20actionable%20insights&author=Satish%20Vaishyar"/>
+</div>
 
 ---
 
@@ -40,9 +51,9 @@ I build machine learning models and reproducible pipelines that turn data into p
 ---
 
 ## <a name="highlights"></a>Highlights
-- ✅ Built reproducible ML pipelines for anomaly detection (both supervised and unsupervised)  
-- ✅ Strong data preprocessing and feature engineering for time-series & traffic datasets  
-- ✅ Contributed to open-source scripts and well-documented experiments
+- Built reproducible ML pipelines for anomaly detection (both supervised and unsupervised)  
+- Strong data preprocessing and feature engineering for time-series & traffic datasets  
+- Contributed to open-source scripts and well-documented experiments
 
 ---
 
@@ -74,5 +85,7 @@ I build machine learning models and reproducible pipelines that turn data into p
 > 💬 "Intelligence without security is a risk. Security without intelligence is blind."
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!&border_radius=10" alt="Thank you message" />
 
-<p align="center">Made with ❤️ • <a href="#top">Back to top</a></p>
+<!-- <p align="center">Made with ❤️ -->
+  <!-- <a href="#top">Back to top</a></p> -->
