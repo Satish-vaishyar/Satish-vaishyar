@@ -1,6 +1,6 @@
 <a name="top"></a>
 <!-- Banner -->
-![Banner](./banner.png)
+<!-- ![Banner](./banner.png) -->
 
 <h1 align="center">👋 Hi, I’m Satish Vaishyar</h1>
 <h3 align="center">AI & ML Enthusiast — turning data into defense</h3>
