@@ -77,8 +77,12 @@ I build machine learning models and reproducible pipelines that turn data into p
   <a href="https://github.com/Satish-vaishyar"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- </p> -->
 
-<p align="center"><strong>Availability:</strong> Open to internships, research collaborations, and entry-level ML roles. Message me on LinkedIn or by email — I reply quickly.</p>
+<div align="center">
+  
+  **Open to:** Internships • Research Collaborations • ML/AI Roles • Open Source Contributions
 
+  **Response Time:** Usually within 24 hours • Always happy to discuss exciting opportunities!
+</div>
 ---
 
 > ⭐ "Building the future, one line of code at a time."  
