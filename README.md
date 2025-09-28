@@ -83,12 +83,13 @@ I build machine learning models and reproducible pipelines that turn data into p
 
   **Response Time:** Usually within 24 hours • Always happy to discuss exciting opportunities!
 </div>
----
+
+
 
 > ⭐ "Building the future, one line of code at a time."  
 > 💬 "Intelligence without security is a risk. Security without intelligence is blind."
 
----
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!&border_radius=10" alt="Thank you message" />
 
 <!-- <p align="center">Made with ❤️ -->
