@@ -111,7 +111,7 @@ These experiences strengthened my ability to think critically about models, data
 
 </div>
 
----
+
 
 > “Strong models matter. Strong systems matter more.”
 
